@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&family=VT323&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+.navbar-container{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.navbar{
+    margin-bottom: 20px;
+    background: rgb(47, 24, 118);
+    font-family: 'Courier ew', Courier, monospace;
+    
+}
+
+.navbar button{
+    list-style: none;
+    display: inline-block;  
+    background-color: inherit;
+    padding: 13px 16px;
+    transition: 0.3s;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Courier ew', Courier, monospace;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.navbar button:hover{
+    color: rgb(6, 170, 204);
+    
+}
+
+.navbar button:active{
+    color: rgb(6, 170, 204);
+    
+}
+
+.tabcontent{
+    display: none;
+    padding: 6px 12px;
+    border-top: none;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1.5px solid rgb(255, 113, 255);
+    font-size: 17px;
+}
+
+
+
+
+

@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&family=VT323&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+body{
+    background-color: black;
+    height: 97vh;
+    background-image: url(/img/9bc27292880429.5e569ff84e4d0.gif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+} 
+
+.nome{
+    color: white;
+    font-family: 'VT323', monospace;
+    text-align: center;
+    font-size: 35px;
+    padding: 15px;
+}
+
+.nome1{
+    color: rgb(224, 23, 161) ;
+}
+
+.função{
+    color: white;
+    font-family: 'VT323', monospace;
+    text-align: center;
+    font-size: 30px;
+    padding: px;
+}
+
+.function{
+    color: rgb(0, 238, 255);
+}
+
+.cartão{
+    position: center;
+    background-color: rgb(50, 38, 145);
+    width: 400px;
+    height: 500px;
+    border-radius: 7px;
+    border: 2px rgb(2, 182, 254) solid;
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+
+}
+
